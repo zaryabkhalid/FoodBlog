@@ -1,0 +1,11 @@
+.recipes_wrap {
+  width: 80%;
+  margin: 0 auto;
+  min-height: 100vh;
+  padding-bottom: 2rem;
+}
+
+.recipes_form {
+  margin: 5rem auto 3rem auto;
+  width: 50%;
+}
